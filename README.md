@@ -9,12 +9,14 @@ At the moment, the suppoted mods are:
 -**Grandpa Demon**
 
 -**More Difficulties** 
+
+-**Integrated Demonlist**
 # What mods are going to get supported in the future? 
 The mods are in order :
 
 -**Gddp Integration**
 
--**Integrated Demonlist**
+-~~**Integrated Demonlist**~~
 
 -**Demons in Between** (but not 100% sure) 
 
