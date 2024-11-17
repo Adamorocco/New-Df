@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>adyagd.godlikefaces_difficulty_-1_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_-1_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -15,146 +15,146 @@
 				<key>spriteSourceSize</key>
 				<string>{60,87}</string>
 				<key>textureRect</key>
-				<string>{{226,207},{60,85}}</string>
+				<string>{{429,0},{60,85}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_-1_0_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,-1}</string>
+				<key>spriteSize</key>
+				<string>{60,85}</string>
+				<key>spriteSourceSize</key>
+				<string>{60,87}</string>
+				<key>textureRect</key>
+				<string>{{429,86},{60,85}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_0_0_3_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,-1}</string>
+				<key>spriteSize</key>
+				<string>{60,85}</string>
+				<key>spriteSourceSize</key>
+				<string>{60,87}</string>
+				<key>textureRect</key>
+				<string>{{429,172},{60,85}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_0_0_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,-1}</string>
+				<key>spriteSize</key>
+				<string>{60,85}</string>
+				<key>spriteSourceSize</key>
+				<string>{60,87}</string>
+				<key>textureRect</key>
+				<string>{{429,258},{60,85}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_1_0_3_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,-1}</string>
+				<key>spriteSize</key>
+				<string>{60,85}</string>
+				<key>spriteSourceSize</key>
+				<string>{60,87}</string>
+				<key>textureRect</key>
+				<string>{{421,344},{60,85}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_1_0_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0,-1}</string>
+				<key>spriteSize</key>
+				<string>{60,85}</string>
+				<key>spriteSourceSize</key>
+				<string>{60,87}</string>
+				<key>textureRect</key>
+				<string>{{0,476},{60,85}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_-1_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_10_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{0,2}</string>
 				<key>spriteSize</key>
-				<string>{60,85}</string>
-				<key>spriteSourceSize</key>
-				<string>{60,87}</string>
-				<key>textureRect</key>
-				<string>{{372,391},{60,85}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_0_0_3_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-1}</string>
-				<key>spriteSize</key>
-				<string>{60,85}</string>
-				<key>spriteSourceSize</key>
-				<string>{60,87}</string>
-				<key>textureRect</key>
-				<string>{{463,0},{60,85}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_0_0_4_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-1}</string>
-				<key>spriteSize</key>
-				<string>{60,85}</string>
-				<key>spriteSourceSize</key>
-				<string>{60,87}</string>
-				<key>textureRect</key>
-				<string>{{463,92},{60,85}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_1_0_3_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-1}</string>
-				<key>spriteSize</key>
-				<string>{60,85}</string>
-				<key>spriteSourceSize</key>
-				<string>{60,87}</string>
-				<key>textureRect</key>
-				<string>{{458,184},{60,85}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_1_0_4_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-1}</string>
-				<key>spriteSize</key>
-				<string>{60,85}</string>
-				<key>spriteSourceSize</key>
-				<string>{60,87}</string>
-				<key>textureRect</key>
-				<string>{{412,276},{60,85}}</string>
-				<key>textureRotated</key>
-				<false/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_10_0_3_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{-1.5,1.5}</string>
-				<key>spriteSize</key>
-				<string>{75,91}</string>
+				<string>{80,92}</string>
 				<key>spriteSourceSize</key>
 				<string>{80,96}</string>
 				<key>textureRect</key>
-				<string>{{293,109},{75,91}}</string>
+				<string>{{262,304},{80,92}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_10_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_10_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-1.5,1.5}</string>
+				<string>{3,2.5}</string>
 				<key>spriteSize</key>
-				<string>{79,91}</string>
+				<string>{88,93}</string>
 				<key>spriteSourceSize</key>
 				<string>{100,120}</string>
 				<key>textureRect</key>
-				<string>{{221,277},{79,91}}</string>
+				<string>{{0,310},{88,93}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_10_1_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_10_1_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-8}</string>
+				<string>{0,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{97,107}</string>
+				<string>{97,110}</string>
 				<key>spriteSourceSize</key>
 				<string>{97,123}</string>
 				<key>textureRect</key>
-				<string>{{189,0},{97,107}}</string>
+				<string>{{0,133},{97,110}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_10_1_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_10_1_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-7}</string>
+				<string>{0,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{97,109}</string>
+				<string>{97,110}</string>
 				<key>spriteSourceSize</key>
 				<string>{97,123}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{97,109}}</string>
+				<string>{{176,0},{97,110}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_2_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_2_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -165,11 +165,11 @@
 				<key>spriteSourceSize</key>
 				<string>{86,87}</string>
 				<key>textureRect</key>
-				<string>{{319,207},{86,85}}</string>
+				<string>{{343,106},{86,85}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_2_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_2_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -180,11 +180,11 @@
 				<key>spriteSourceSize</key>
 				<string>{86,87}</string>
 				<key>textureRect</key>
-				<string>{{319,299},{86,85}}</string>
+				<string>{{343,193},{86,85}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_3_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_3_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -195,11 +195,11 @@
 				<key>spriteSourceSize</key>
 				<string>{60,85}</string>
 				<key>textureRect</key>
-				<string>{{530,0},{60,84}}</string>
+				<string>{{86,476},{60,84}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_3_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_3_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -210,11 +210,11 @@
 				<key>spriteSourceSize</key>
 				<string>{60,85}</string>
 				<key>textureRect</key>
-				<string>{{530,368},{60,84}}</string>
+				<string>{{490,172},{60,84}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_4_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_4_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -225,11 +225,11 @@
 				<key>spriteSourceSize</key>
 				<string>{85,85}</string>
 				<key>textureRect</key>
-				<string>{{439,368},{85,84}}</string>
+				<string>{{490,0},{85,84}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_4_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_4_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -240,11 +240,11 @@
 				<key>spriteSourceSize</key>
 				<string>{85,85}</string>
 				<key>textureRect</key>
-				<string>{{479,276},{85,84}}</string>
+				<string>{{490,86},{85,84}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_5_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_5_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -255,11 +255,11 @@
 				<key>spriteSourceSize</key>
 				<string>{76,87}</string>
 				<key>textureRect</key>
-				<string>{{375,109},{76,86}}</string>
+				<string>{{343,280},{76,86}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_5_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_5_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -270,146 +270,131 @@
 				<key>spriteSourceSize</key>
 				<string>{76,87}</string>
 				<key>textureRect</key>
-				<string>{{0,448},{76,86}}</string>
+				<string>{{0,399},{76,86}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_6_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_6_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-0.5}</string>
+				<string>{-0.5,2.5}</string>
 				<key>spriteSize</key>
-				<string>{73,87}</string>
+				<string>{74,93}</string>
 				<key>spriteSourceSize</key>
 				<string>{75,98}</string>
 				<key>textureRect</key>
-				<string>{{209,363},{73,87}}</string>
-				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_6_0_4_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-0.5}</string>
-				<key>spriteSize</key>
-				<string>{75,87}</string>
-				<key>spriteSourceSize</key>
-				<string>{75,98}</string>
-				<key>textureRect</key>
-				<string>{{381,0},{75,87}}</string>
+				<string>{{111,304},{74,93}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_6_1_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_6_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,-10}</string>
+				<string>{0,2.5}</string>
 				<key>spriteSize</key>
-				<string>{74,103}</string>
+				<string>{75,93}</string>
 				<key>spriteSourceSize</key>
-				<string>{75,123}</string>
+				<string>{75,98}</string>
 				<key>textureRect</key>
-				<string>{{111,280},{74,103}}</string>
+				<string>{{186,304},{75,93}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_6_1_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_6_1_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,-9.5}</string>
+				<string>{-0.5,-6.5}</string>
 				<key>spriteSize</key>
-				<string>{74,104}</string>
+				<string>{74,110}</string>
 				<key>spriteSourceSize</key>
 				<string>{75,123}</string>
 				<key>textureRect</key>
-				<string>{{115,196},{74,104}}</string>
+				<string>{{111,115},{74,110}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_6_1_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{-0.5,-6.5}</string>
+				<key>spriteSize</key>
+				<string>{74,110}</string>
+				<key>spriteSourceSize</key>
+				<string>{75,123}</string>
+				<key>textureRect</key>
+				<string>{{186,111},{74,110}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_7_0_3_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0.5,0}</string>
+				<key>spriteSize</key>
+				<string>{74,86}</string>
+				<key>spriteSourceSize</key>
+				<string>{75,86}</string>
+				<key>textureRect</key>
+				<string>{{87,399},{74,86}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_7_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_7_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{73,86}</string>
+				<string>{75,86}</string>
 				<key>spriteSourceSize</key>
 				<string>{75,86}</string>
 				<key>textureRect</key>
-				<string>{{93,448},{73,86}}</string>
+				<string>{{174,398},{75,86}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_7_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_7_1_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0.5,-9.5}</string>
 				<key>spriteSize</key>
-				<string>{73,86}</string>
+				<string>{74,105}</string>
 				<key>spriteSourceSize</key>
-				<string>{75,86}</string>
+				<string>{75,124}</string>
 				<key>textureRect</key>
-				<string>{{186,447},{73,86}}</string>
+				<string>{{111,226},{74,105}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_7_1_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_7_1_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
 				<string>{0,-9.5}</string>
 				<key>spriteSize</key>
-				<string>{73,105}</string>
+				<string>{75,105}</string>
 				<key>spriteSourceSize</key>
 				<string>{75,124}</string>
 				<key>textureRect</key>
-				<string>{{115,116},{73,105}}</string>
+				<string>{{274,0},{75,105}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_7_1_4_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-9.5}</string>
-				<key>spriteSize</key>
-				<string>{73,105}</string>
-				<key>spriteSourceSize</key>
-				<string>{75,124}</string>
-				<key>textureRect</key>
-				<string>{{0,200},{73,105}}</string>
-				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_8_0_3_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-1.5}</string>
-				<key>spriteSize</key>
-				<string>{72,83}</string>
-				<key>spriteSourceSize</key>
-				<string>{72,86}</string>
-				<key>textureRect</key>
-				<string>{{530,67},{72,83}}</string>
-				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_8_0_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_8_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -420,26 +405,26 @@
 				<key>spriteSourceSize</key>
 				<string>{72,86}</string>
 				<key>textureRect</key>
-				<string>{{279,443},{72,86}}</string>
+				<string>{{261,398},{72,86}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_8_1_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_8_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-10.5}</string>
+				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{81,102}</string>
+				<string>{72,86}</string>
 				<key>spriteSourceSize</key>
-				<string>{81,123}</string>
+				<string>{72,86}</string>
 				<key>textureRect</key>
-				<string>{{293,0},{81,102}}</string>
+				<string>{{348,367},{72,86}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_8_1_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_8_1_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -450,67 +435,82 @@
 				<key>spriteSourceSize</key>
 				<string>{81,123}</string>
 				<key>textureRect</key>
-				<string>{{0,280},{81,104}}</string>
+				<string>{{217,222},{81,104}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_9_0_3_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_8_1_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,1.5}</string>
+				<string>{0,-9.5}</string>
 				<key>spriteSize</key>
-				<string>{73,91}</string>
-				<key>spriteSourceSize</key>
-				<string>{79,96}</string>
-				<key>textureRect</key>
-				<string>{{0,368},{73,91}}</string>
-				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_9_0_4_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{-0.5,2.5}</string>
-				<key>spriteSize</key>
-				<string>{77,91}</string>
-				<key>spriteSourceSize</key>
-				<string>{120,146}</string>
-				<key>textureRect</key>
-				<string>{{111,363},{77,91}}</string>
-				<key>textureRotated</key>
-				<true/>
-			</dict>
-			<key>adyagd.godlikefaces_difficulty_9_1_3_god.png</key>
-			<dict>
-				<key>aliases</key>
-				<array/>
-				<key>spriteOffset</key>
-				<string>{0,-7.5}</string>
-				<key>spriteSize</key>
-				<string>{77,108}</string>
+				<string>{81,104}</string>
 				<key>spriteSourceSize</key>
 				<string>{81,123}</string>
 				<key>textureRect</key>
-				<string>{{0,116},{77,108}}</string>
+				<string>{{261,111},{81,104}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
-			<key>adyagd.godlikefaces_difficulty_9_1_4_god.png</key>
+			<key>adyagd.godlikefaces/difficulty_9_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-7.5}</string>
+				<string>{0.5,2}</string>
 				<key>spriteSize</key>
-				<string>{78,109}</string>
+				<string>{78,92}</string>
+				<key>spriteSourceSize</key>
+				<string>{79,96}</string>
+				<key>textureRect</key>
+				<string>{{350,0},{78,92}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_9_0_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0.5,14}</string>
+				<key>spriteSize</key>
+				<string>{87,114}</string>
+				<key>spriteSourceSize</key>
+				<string>{120,146}</string>
+				<key>textureRect</key>
+				<string>{{88,0},{87,114}}</string>
+				<key>textureRotated</key>
+				<false/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_9_1_3_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0.5,-6.5}</string>
+				<key>spriteSize</key>
+				<string>{78,110}</string>
+				<key>spriteSourceSize</key>
+				<string>{81,123}</string>
+				<key>textureRect</key>
+				<string>{{0,231},{78,110}}</string>
+				<key>textureRotated</key>
+				<true/>
+			</dict>
+			<key>adyagd.godlikefaces/difficulty_9_1_4_god.png</key>
+			<dict>
+				<key>aliases</key>
+				<array/>
+				<key>spriteOffset</key>
+				<string>{0.5,4}</string>
+				<key>spriteSize</key>
+				<string>{87,132}</string>
 				<key>spriteSourceSize</key>
 				<string>{120,182}</string>
 				<key>textureRect</key>
-				<string>{{104,0},{78,109}}</string>
+				<string>{{0,0},{87,132}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -524,11 +524,11 @@
 			<key>premultiplyAlpha</key>
 			<false/>
 			<key>realTextureFileName</key>
-			<string>GodlikeDiffSheet-hd.png</string>
+			<string>adyagd.godlikefaces/GodlikeDiffSheet-hd.png</string>
 			<key>size</key>
-			<string>{614,524}</string>
+			<string>{574,536}</string>
 			<key>textureFileName</key>
-			<string>GodlikeDiffSheet-hd.png</string>
+			<string>adyagd.godlikefaces/GodlikeDiffSheet-hd.png</string>
 		</dict>
 	</dict>
 </plist>
