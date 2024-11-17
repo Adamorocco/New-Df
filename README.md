@@ -18,6 +18,8 @@ The mods are in order :
 
 -~~**Integrated Demonlist**~~
 
+-**Emojis in comments**
+
 -**Demons in Between** (but not 100% sure) 
 
 
