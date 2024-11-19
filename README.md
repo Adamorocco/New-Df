@@ -11,6 +11,8 @@ At the moment, the suppoted mods are:
 -**More Difficulties** 
 
 -**Integrated Demonlist**
+
+-**Emojis in comments**
 # What mods are going to get supported in the future? 
 The mods are in order :
 
@@ -18,7 +20,7 @@ The mods are in order :
 
 -~~**Integrated Demonlist**~~
 
--**Emojis in comments**
+-~~**Emojis in comments**~~
 
 -**Demons in Between** (but not 100% sure) 
 
