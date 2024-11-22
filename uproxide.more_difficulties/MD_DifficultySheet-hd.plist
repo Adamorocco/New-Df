@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04_Legacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -19,7 +19,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04_LegacyLegendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04_LegacyLegendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -34,7 +34,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04_LegacyMythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04_LegacyMythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -49,7 +49,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -64,7 +64,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04Legendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04Legendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -79,7 +79,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>MD_Difficulty04Mythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04Mythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -94,7 +94,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04Small_Lecacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04Small_Lecacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -109,7 +109,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04Small.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty04Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -124,7 +124,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07_Legacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -139,7 +139,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07_LegacyLegendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07_LegacyLegendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -154,7 +154,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07_LegacyMythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07_LegacyMythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -169,7 +169,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -184,7 +184,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07Legendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07Legendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -199,7 +199,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07Mythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07Mythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -214,7 +214,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07Small_Legacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -229,7 +229,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty07Small.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty07Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -244,7 +244,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09_Legacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -259,7 +259,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09_LegacyLegendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09_LegacyLegendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -274,7 +274,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09_LegacyMythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09_LegacyMythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -289,7 +289,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -304,7 +304,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09Legendary.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09Legendary.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -319,7 +319,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09Mythic.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09Mythic.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -334,7 +334,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09Small_Legacy.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -349,7 +349,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty09Small.png</key>
+			<key>uproxide.more_difficulties_MD_Difficulty09Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
