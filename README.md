@@ -13,6 +13,8 @@ At the moment, the suppoted mods are:
 -**Integrated Demonlist**
 
 -**Emojis in comments**
+
+-**Fake Rate**
 # What mods are going to get supported in the future? 
 The mods are in order :
 
