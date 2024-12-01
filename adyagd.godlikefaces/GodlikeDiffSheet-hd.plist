@@ -94,7 +94,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces/difficulty_10_0_3_god.png</key>
+			<key>adyagd.godlikefaces_difficulty_10_0_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -109,7 +109,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>adyagd.godlikefaces/difficulty_10_0_4_god.png</key>
+			<key>adyagd.godlikefaces_difficulty_10_0_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -124,7 +124,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces/difficulty_10_1_3_god.png</key>
+			<key>adyagd.godlikefaces_difficulty_10_1_3_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -139,7 +139,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>adyagd.godlikefaces/difficulty_10_1_4_god.png</key>
+			<key>adyagd.godlikefaces_difficulty_10_1_4_god.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
