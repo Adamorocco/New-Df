@@ -31,4 +31,7 @@ The mods are in order :
 
 -**Demons in Between**
 
+# Special Thanks
+to **susurss** for helping me post this on Github and for the finding flaws in the original difficulties
+to **AdryanoGMD** for helping me port the tp to medium
 
