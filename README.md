@@ -1,5 +1,5 @@
 # Welcome to my new and cute texture pack
-I originally just ported the new emojis uproxide added to his server. 
+I originally just ported the new emojis uproxide added to her server. 
 But I did the original faces and ported it to other mods 
 # What mods are supported? 
 At the moment, the suppoted mods are:
